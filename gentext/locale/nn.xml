@@ -646,47 +646,47 @@
 </context>
 
 <context name="datetime-full">
-<template name="January">Januar</template>
-<template name="February">Februar</template>
-<template name="March">Mars</template>
-<template name="April">April</template>
-<template name="May">Mai</template>
-<template name="June">Juni</template>
-<template name="July">Juli</template>
-<template name="August">August</template>
-<template name="September">September</template>
-<template name="October">Oktober</template>
-<template name="November">November</template>
-<template name="December">Desember</template>
-<template name="Monday">Mandag</template>
-<template name="Tuesday">Tirsdag</template>
-<template name="Wednesday">Onsdag</template>
-<template name="Thursday">Torsdag</template>
-<template name="Friday">Fredag</template>
-<template name="Saturday">Lørdag</template>
-<template name="Sunday">Søndag</template>
+<template name="January" lang="nb">Januar</template>
+<template name="February" lang="nb">Februar</template>
+<template name="March" lang="nb">Mars</template>
+<template name="April" lang="nb">April</template>
+<template name="May" lang="nb">Mai</template>
+<template name="June" lang="nb">Juni</template>
+<template name="July" lang="nb">Juli</template>
+<template name="August" lang="nb">August</template>
+<template name="September" lang="nb">September</template>
+<template name="October" lang="nb">Oktober</template>
+<template name="November" lang="nb">November</template>
+<template name="December" lang="nb">Desember</template>
+<template name="Monday" lang="nb">Mandag</template>
+<template name="Tuesday" lang="nb">Tirsdag</template>
+<template name="Wednesday" lang="nb">Onsdag</template>
+<template name="Thursday" lang="nb">Torsdag</template>
+<template name="Friday" lang="nb">Fredag</template>
+<template name="Saturday" lang="nb">Lørdag</template>
+<template name="Sunday" lang="nb">Søndag</template>
 </context>
 
 <context name="datetime-abbrev">
-<template name="Jan">Jan</template>
-<template name="Feb">Feb</template>
-<template name="Mar">Mar</template>
-<template name="Apr">Apr</template>
-<template name="May">Mai</template>
-<template name="Jun">Jun</template>
-<template name="Jul">Jul</template>
-<template name="Aug">Aug</template>
-<template name="Sep">Sep</template>
-<template name="Oct">Okt</template>
-<template name="Nov">Nov</template>
-<template name="Dec">Des</template>
-<template name="Mon">Man</template>
-<template name="Tue">Tir</template>
-<template name="Wed">Ons</template>
-<template name="Thu">Tor</template>
-<template name="Fri">Fre</template>
-<template name="Sat">Lør</template>
-<template name="Sun">Søn</template>
+<template name="Jan" lang="nb">Jan</template>
+<template name="Feb" lang="nb">Feb</template>
+<template name="Mar" lang="nb">Mar</template>
+<template name="Apr" lang="nb">Apr</template>
+<template name="May" lang="nb">Mai</template>
+<template name="Jun" lang="nb">Jun</template>
+<template name="Jul" lang="nb">Jul</template>
+<template name="Aug" lang="nb">Aug</template>
+<template name="Sep" lang="nb">Sep</template>
+<template name="Oct" lang="nb">Okt</template>
+<template name="Nov" lang="nb">Nov</template>
+<template name="Dec" lang="nb">Des</template>
+<template name="Mon" lang="nb">Man</template>
+<template name="Tue" lang="nb">Tir</template>
+<template name="Wed" lang="nb">Ons</template>
+<template name="Thu" lang="nb">Tor</template>
+<template name="Fri" lang="nb">Fre</template>
+<template name="Sat" lang="nb">Lør</template>
+<template name="Sun" lang="nb">Søn</template>
 </context>
 
 <context name="htmlhelp">
