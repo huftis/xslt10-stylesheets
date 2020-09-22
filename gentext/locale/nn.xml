@@ -128,8 +128,8 @@
 <gentext key="Procedure" text="Prosedyre"/>
 <gentext key="procedure" text="Prosedyre"/>
 <gentext key="ProductionSet" text="Produksjon"/>
-<gentext key="PubDate" text="Utgivelsesdato"/>
-<gentext key="pubdate" text="Utgivelsesdato"/>
+<gentext key="PubDate" text="Utgjevingsdato"/>
+<gentext key="pubdate" text="Utgjevingsdato"/>
 <gentext key="Published" text="Utgitt"/>
 <gentext key="published" text="Utgitt"/>
 <gentext key="Publisher" text="Utgivar"/>
@@ -209,7 +209,8 @@
 <gentext key="unexpectedelementname" text="Uventa elementnavn"/>
 <gentext key="unsupported" text="ikkje støtta"/>
 <gentext key="xrefto" text="xref til"/>
-<gentext key="video-unsupported" text="Din nettleser støtter ikke video-taggen" lang="nb"/>
+<gentext key="video-unsupported" text="Nettlesaren din har ikkje støtte for
+> video-taggen"/>
 <gentext key="audio-unsupported" text="Din nettleser støtter ikke audio-taggen" lang="nb"/>
 
 <gentext key="listofequations" text="Formeloversikt"/>
