@@ -213,6 +213,18 @@
 > video-taggen"/>
 <gentext key="audio-unsupported" text="Din nettleser støtter ikke audio-taggen" lang="nb"/>
 
+<!-- * Sometimes we need to generate a plural "Authors" title; for example, -->
+<!-- * in a man page AUTHORS section which lists multiple authors -->
+<gentext key="Authors" text="Forfattere" lang="nb"/>
+
+<!-- * The following all correspond to enumerated values for the Class -->
+<!-- *  attribute on the Othercredit element -->
+<gentext key="copyeditor" text="Manuskriptredaktør" lang="nb"/>
+<gentext key="graphicdesigner" text="Grafisk utformer" lang="nb"/>
+<gentext key="productioneditor" text="Produksjonsredaktør" lang="nb"/>
+<gentext key="technicaleditor" text="Teknisk redaktør" lang="nb"/>
+<gentext key="translator" text="Oversetter" lang="nb"/>
+
 <gentext key="listofequations" text="Formeloversikt"/>
 <gentext key="ListofEquations" text="Formeloversikt"/>
 <gentext key="ListofExamples" text="Dømeoversikt"/>

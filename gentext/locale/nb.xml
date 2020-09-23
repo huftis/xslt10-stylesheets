@@ -166,8 +166,8 @@
 <gentext key="Set" text="Sett"/>
 <gentext key="setindex" text="Settregister"/>
 <gentext key="SetIndex" text="Settregister"/>
-<gentext key="Sidebar" text=""/>
-<gentext key="sidebar" text="sidespalte"/>
+<gentext key="Sidebar" text="Sidespalte"/>
+<gentext key="sidebar" text="Sidespalte"/>
 <gentext key="step" text="Steg"/>
 <gentext key="Step" text="Steg"/>
 <gentext key="table" text="Tabell"/>
@@ -193,14 +193,14 @@
 <gentext key="In" text="I"/>
 <gentext key="lastlistcomma" text=","/>
 <gentext key="listcomma" text=","/>
-<gentext key="notes" text="Sluttnotater"/>
-<gentext key="Notes" text="Sluttnotater"/>
+<gentext key="notes" text="Merknader"/>
+<gentext key="Notes" text="Merknader"/>
 <gentext key="Pgs" text="Sider"/>
-<gentext key="pgs" Text="Sider"/>
+<gentext key="pgs" text="Sider"/>
 <gentext key="Revisedby" text="Gjennomgått av: "/>
 <gentext key="revisedby" text="Gjennomgått av: "/>
-<gentext key="TableNotes" text="Notater"/>
-<gentext key="tablenotes" text="Notater"/>
+<gentext key="TableNotes" text="Merknader"/>
+<gentext key="tablenotes" text="Merknader"/>
 <gentext key="TableofContents" text="Innholdsfortegnelse"/>
 <gentext key="tableofcontents" text="Innholdsfortegnelse"/>
 <gentext key="unexpectedelementname" text="Uventet elementnavn"/>
