@@ -145,8 +145,8 @@
 <gentext key="References" text="Referansar"/>
 <gentext key="RefName" text="Namn"/>
 <gentext key="refname" text="Namn"/>
-<gentext key="RefSection" text="Del"/>
-<gentext key="refsection" text="Del"/>
+<gentext key="RefSection" text=""/>
+<gentext key="refsection" text=""/>
 <gentext key="RefSynopsisDiv" text="Oversyn"/>
 <gentext key="refsynopsisdiv" text="Oversyn"/>
 <gentext key="RevHistory" text="Revisjonshistorie"/>
@@ -158,8 +158,8 @@
 <gentext key="sect3" text="Del"/>
 <gentext key="sect4" text="Del"/>
 <gentext key="sect5" text="Del"/>
-<gentext key="Section" text="Del"/>
-<gentext key="section" text="Del"/>
+<gentext key="Section" text="Seksjon" lang="nb"/>
+<gentext key="section" text="Seksjon" lang="nb"/>
 <gentext key="see" text="sjå"/>             <!-- uncapitalized -->
 <gentext key="See" text="Sjå"/>
 <gentext key="seealso" text="sjå òg"/>             <!-- uncapitalized -->
@@ -237,7 +237,7 @@
 <gentext key="Draft" text="Utkast"/>
 <gentext key="above" text="over"/>
 <gentext key="below" text="under"/>
-<gentext key="sectioncalled" text="delen med namn"/>
+<gentext key="sectioncalled" text="seksjonen med namn" lang="nb"/>
 <gentext key="index symbols" text="Symbolar"/>
 <gentext key="writing-mode" text="lr-tb"/>
 
