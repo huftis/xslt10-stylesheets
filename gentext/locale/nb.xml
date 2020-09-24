@@ -75,8 +75,8 @@
 <gentext key="chapter" text="Kapittel"/>
 <gentext key="Colophon" text="Kolofon"/>
 <gentext key="colophon" text="Kolofon"/>
-<gentext key="Copyright" text="Opphavsrett"/>
-<gentext key="copyright" text="Opphavsrett"/>
+<gentext key="Copyright" text=""/>
+<gentext key="copyright" text=""/>
 <gentext key="Dedication" text="Dedikasjon"/>
 <gentext key="dedication" text="Dedikasjon"/>
 <gentext key="Dialogue" text="Dialog"/>
